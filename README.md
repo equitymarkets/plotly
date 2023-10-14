@@ -1,2 +1,4 @@
 # plotly
-plotly activity
+
+
+Plotly practice activity practice for loading Citibike project in NYC. 
